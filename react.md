@@ -4,3 +4,28 @@
 # Knowledge 
 
 # Utilities
+### material-ui-dropzone
+#### A file picker in multiple formats 
+A simple component which works with material-UI. It is a  file picker. This package enables you to pic one or more file of different formates. It also provides live preview. <a href="https://yuvaleros.github.io/material-ui-dropzone/">material-ui-dropzone</a>
+
+### react-modal-image
+#### A model image component
+It let's you use a pop-up model image for container for  your small image. <a href="https://www.npmjs.com/package/react-modal-image">react-modal-image</a>
+
+
+
+
+
+# libraries 
+### highcharts
+#### A reach chart rendering library.
+<a href="https://www.highcharts.com/">highcharts</a>
+
+### ChartJs
+#### A another reach chart rendering library.
+<a href="https://github.com/jerairrest/react-chartjs-2">ChartJs with React</a>
+
+### React-Bootstrap
+#### A bootstrap for React.
+<a href="https://react-bootstrap.github.io/">React - Bootstrap</a>
+
