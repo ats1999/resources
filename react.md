@@ -12,7 +12,9 @@ A simple component which works with material-UI. It is a  file picker. This pack
 #### A model image component
 It let's you use a pop-up model image for container for  your small image. <a href="https://www.npmjs.com/package/react-modal-image">react-modal-image</a>
 
-
+### react-animate-on-scroll
+#### A component which let's you to do some animation when user scroll the page
+<a href="https://www.npmjs.com/package/react-animate-on-scroll">react-animate-on-scroll</a>
 
 
 
