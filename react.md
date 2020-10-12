@@ -16,6 +16,9 @@ It let's you use a pop-up model image for container for  your small image. <a hr
 #### A component which let's you to do some animation when user scroll the page
 <a href="https://www.npmjs.com/package/react-animate-on-scroll">react-animate-on-scroll</a>
 
+### React Google Login
+#### A package which let's you use google oauth in sompler fashion.
+<a href="https://www.npmjs.com/package/react-google-login">React Google Login</a>
 
 
 # libraries 
